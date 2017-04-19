@@ -1,0 +1,1 @@
+This device does not connect out-of-the-box to my dual-band network which supports ipads, cell phones, laptop PCs, TiVos, Rokus, Kindles, and any other device we or our guest connect to it.  From level 2 tech support, after an hour on the phone (and several hours of trying to get this thing to work, turning off all other wireless devices), this is what I am supposed to do:

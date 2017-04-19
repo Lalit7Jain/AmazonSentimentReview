@@ -1,0 +1,1 @@
+I really love my Echo and Dot.  BUT I wish it would respond to the following command:  "Pause for 6 minutes".  As things stand, I have to tell Alexa to "Pause", then command her to "alarm in six minutes".  Then when she plays the alarm, I have to tell her to end it, and then I have to tell her to Unpause.  Very cumbersome.

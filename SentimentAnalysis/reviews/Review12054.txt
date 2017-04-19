@@ -1,0 +1,1 @@
+- Connect to the Instant Pot Smart.  Yes, I also mentioned this as a con in jest.  If you don't know what an Instant Pot is, it's an electric pressure cooker and the Smart model comes with bluetooth.  I want to be able to control it via Alexa.

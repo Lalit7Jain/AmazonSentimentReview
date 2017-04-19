@@ -1,0 +1,1 @@
+Also I might not be giving the correct command, but you can't ask Alexa encyclopedia material (e.g. What city has the tallest fountain?). She'll respond she doesn't know.

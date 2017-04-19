@@ -1,0 +1,1 @@
+Very limited app for setting up preferences.  Only one traffic destination?  I drive to more than one destination on a regular basis.

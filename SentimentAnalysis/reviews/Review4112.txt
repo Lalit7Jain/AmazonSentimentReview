@@ -1,0 +1,1 @@
+- It has only one To Do and one Grocery list (can’t set up multiple ones and I couldn’t find a Skill to do that either). These lists will be on your Alexa app on your smartphone when you go out to buy something.

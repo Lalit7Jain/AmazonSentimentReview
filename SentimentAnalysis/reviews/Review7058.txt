@@ -1,0 +1,1 @@
+In addition, you have to down load the Alexia app and use it to connect this device to the internet, which is ok, but then the app logs everything, or most things, that you ask Alexia, or Echo.  That’s another item - Why doesn't it log everything you ask it?

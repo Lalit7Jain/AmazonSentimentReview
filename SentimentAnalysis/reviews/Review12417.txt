@@ -1,0 +1,1 @@
+5) Eventually, it would be nice if echo was equipped with some more sensors (a la nest), specifically presence, so it can do more smart things when I walk into or leave a room, say hello, and save me money on electricity.

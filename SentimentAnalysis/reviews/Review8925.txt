@@ -1,0 +1,1 @@
+I have been able to link my Google Calendar to it to ask Alexa to add events to it.  She will prompt you to fill in the day and time and name of the event.

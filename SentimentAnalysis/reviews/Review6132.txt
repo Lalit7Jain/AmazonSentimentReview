@@ -1,0 +1,1 @@
+alexa doesn't seem to be able to give temperature readings, traffic info or where stores and restaurants are located near our location.  Your system apparently thinks we are in Northern California instead of La Canada and apparently we cannot change this miss information, therefore Alexa is less useful and would recommend it only for simple needs.

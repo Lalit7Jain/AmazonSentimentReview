@@ -1,0 +1,1 @@
+I have added skills to play games, get weather, play sounds (rain, thunderstorm, white noise).

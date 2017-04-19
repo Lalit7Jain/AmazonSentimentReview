@@ -1,0 +1,1 @@
+Even Tunein Radio which is a built "skill".  for instance, when I ask Alexa to open Tunein radio, she says that that skill is not enabled.  Or when I ask her to open Pandora, she says OK here is the last station played, then silence, no music.

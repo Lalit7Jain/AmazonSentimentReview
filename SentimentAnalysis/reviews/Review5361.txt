@@ -1,0 +1,1 @@
+We were playing with our new Echo by asking Alexa a number of things we'd normally ask Google.  Most of which came back with "I don't know what you're asking".  Echo was able to play most music and answer simple questions about store hours, weather, etc., but since Bing lacks the ability to learn users' search habits, so does Alexa.

@@ -1,0 +1,1 @@
+Works great but needs software improvements. Asking Alexa a question can be like learning another language. You have to ask Alexa to ask a third part your question. Not a very direct and user friendly way to interact. I have to keep a cheat sheet with the phrases needed to activate a skill because the wording is unusual difficult to remember.

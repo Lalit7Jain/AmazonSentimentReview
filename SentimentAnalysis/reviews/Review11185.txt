@@ -1,0 +1,1 @@
+Works well for simple commands/questions, but there is still a while to go before Echo and Alexa are able to understand/interpret more complex commands.

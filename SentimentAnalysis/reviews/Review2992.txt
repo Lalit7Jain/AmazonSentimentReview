@@ -1,0 +1,1 @@
+Works and recognize my commands even though english it's not my first language.  The problem it's that echo does not recognize my commands when the music is loud and when I'm 15 feets away in another room even though amazon list this features:

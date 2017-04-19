@@ -1,0 +1,1 @@
+Alexa is not conversational. If you ask her something, you have to repeat it in any follow up. For example, we asked if the library was open and she (incredibly!) told us the right answer. You can't just say "Alexa, how do we get there" as she won't know what there is. We'd have to say "Alexa, give us directions to the Anytown USA Library".

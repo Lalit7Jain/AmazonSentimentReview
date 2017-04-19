@@ -1,0 +1,1 @@
+It would be nice if certain skills could trigger the echo to respond in certain ways, but so far I haven't been able to locate a way of doing that. I just picture the scene in Back to the Future II when he comes home and the house announces his arrival.

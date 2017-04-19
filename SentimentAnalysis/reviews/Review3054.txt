@@ -1,0 +1,1 @@
+My amazon echo works probably at the beginning, but after two weeks, it can wake up voice but cannot respond to my command at all. It can only respond to my voice when I tap the action button.

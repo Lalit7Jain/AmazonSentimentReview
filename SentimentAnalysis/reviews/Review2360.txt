@@ -1,0 +1,1 @@
+When I tell the FireTVstick remote to pause music, it tells me I'm not streaming the music that's blaring in my ear. In other words, the FireTVstick remote doesn't talk to Alexa on the Amazon Echo if the FireTVstick is turned on. So, you can't pause the music and then launch NetFlix

@@ -1,0 +1,1 @@
+4. Volume control seems to either always be too quiet or too loud.  The Home has an indicator of volume and turning volume up and down is easy and effective.  What seems to be missing from both, and maybe more so from the Home, is the ability to normalize the volume.

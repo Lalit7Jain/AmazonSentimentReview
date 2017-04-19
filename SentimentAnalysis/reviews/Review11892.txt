@@ -1,0 +1,1 @@
+Plays the music I like, the news I want to hear, even works with IFTT to ring my phone when I don't know where I left it.  If it stops working, buy a new adapter.

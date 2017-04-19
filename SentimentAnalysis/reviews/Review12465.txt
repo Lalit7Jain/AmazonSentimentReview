@@ -1,0 +1,1 @@
+Echo can quickly answer simple questions such as unit conversion or the current temperature or time.

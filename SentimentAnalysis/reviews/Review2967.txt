@@ -1,0 +1,1 @@
+Requests requiring an internet search to meet expectations are poor - Alexa says, "I don't know" when a search would at least provide something in return from which to choose.

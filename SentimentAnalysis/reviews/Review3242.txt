@@ -1,0 +1,1 @@
+- Timer.  You can say "Alexa, set a timer for 22 minutes" and you don't have to worry about setting a manual timer while your hands are covered in cookie dough.

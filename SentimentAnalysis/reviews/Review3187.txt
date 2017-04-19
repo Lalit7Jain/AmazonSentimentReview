@@ -1,0 +1,1 @@
+Half the time, I have to repeat myself for my home automation. For example, I will say, 'Alexa, turn on Kitchen Zone.' Echo will say, 'You have several devices named kitchen in your profile. Which one do you want?' I will say again -_- Kitchen Zone.

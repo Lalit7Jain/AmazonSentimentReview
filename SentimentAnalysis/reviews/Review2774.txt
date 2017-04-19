@@ -1,0 +1,1 @@
+Works well.  Had a little trouble with initial set up but now have it set up to turn on the lamp by voice commands.  Very nice!

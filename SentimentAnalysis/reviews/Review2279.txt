@@ -1,0 +1,1 @@
+3. Alexa will tell you stock market news through the set-up of the CNBC skill in the Alexa app.

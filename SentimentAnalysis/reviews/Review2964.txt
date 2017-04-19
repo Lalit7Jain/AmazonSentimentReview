@@ -1,0 +1,1 @@
+3.  It has integration into homelink-like functionality (Alexa, turn off Kitchen light).

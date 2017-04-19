@@ -1,0 +1,1 @@
+Regarding the Echo app: I didn't find the app itself to be all that intuitive. Changing our "flash news" to a different provider took a bit of digging, and there was an annoying bottom banner with the last song Alexa (attempted) to play, that seemed to permanently remain on the app. Also, the Home screen on the app is slow to load (spinning roulette wheel).

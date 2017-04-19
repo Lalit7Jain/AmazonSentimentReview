@@ -1,0 +1,1 @@
+2. Alexa will tell you the news through NPR or your local news network, all you have to do is set up the skill in the Alexa app for local news, NPR is automatically set up with the echo.

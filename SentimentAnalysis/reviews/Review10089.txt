@@ -1,0 +1,1 @@
+2. When music is playing, getting Alexa to wake up is very intermittent.  Doesn't  seem to discriminate voice from music well at all.

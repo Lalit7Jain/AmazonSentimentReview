@@ -1,0 +1,1 @@
+After some initial setup challenges that seem to be router related (i.e. make sure you are only using WPA2 security, not a mixed WPA/WPA2 setup), Alexa works great! She found all our Wink lights and we are really enjoying all of the new things we can do. Looking forward to see how this product continues to develop over time.

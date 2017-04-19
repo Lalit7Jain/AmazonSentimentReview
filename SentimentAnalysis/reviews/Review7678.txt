@@ -1,0 +1,1 @@
+Original 1 star review: This device does not support WPA2 Enterprise network encryption. If you try to use this at a company, school or even at home with that type of encryption and password, you will spend hours trying to get it to work before you get mad and return it. It is silly that the device isn't supported on this common type of network.

@@ -1,0 +1,1 @@
+There is an app to play trivia with it, you can get your estimated commute time, the current date and time.  Set reminders, add calendars, timers for cooking or just timers.

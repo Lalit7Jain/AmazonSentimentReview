@@ -1,0 +1,1 @@
+We would like to add the home automation feature, which allows for voice control over thermostats, lighting, garage doors, etc., but are reluctant as the technology is so new and evolving - we don't want Betamax, if VHS is the standard!

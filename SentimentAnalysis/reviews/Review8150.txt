@@ -1,0 +1,1 @@
+I should be able to have Alexa read back all my Amazon playlists or albums or whatever and she should be smart enough by looking at my music to know or learn what I have.

@@ -1,0 +1,1 @@
+I am using Wemo in conjunction with it to control all my lights and fans.

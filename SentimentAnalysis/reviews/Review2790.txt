@@ -1,0 +1,1 @@
+ I have the Echo and multiple Echo Dots around my house. I use them for Home Automation with my Samsung SmartThings Hub and Logitech Harmony Hub. It works well but I just wish it was better at random Google searches but this can be fixed by adding custom skills.

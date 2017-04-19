@@ -1,0 +1,1 @@
+Also, the AI doesn't know what the last command was, but my app does?

@@ -1,0 +1,1 @@
+- It fails epically in comparison to the Google Home for general inquiries. It can do some things, but even for those things, you need to word the questions perfectly or it will not understand (asking for unit conversions (kgs to lbs is what I was trying to get) for example was pretty annoying, it took 3 or 4 tries before I worded it to Alexa's satisfaction)... very frustrating

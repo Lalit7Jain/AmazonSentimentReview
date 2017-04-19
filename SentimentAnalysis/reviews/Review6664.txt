@@ -1,0 +1,1 @@
+Fills the gap in my home automation system.  Integrates well with Universal-Devices ISY (Insteon/Z-wave/Zigbee), Honeywell thermostats, and three Harmony remotes via Yonomi.

@@ -1,0 +1,1 @@
+in addition, after the initial attempts to connect, my TiVo and Roku were shut down by the Echo, and the entire network had to be rebooted in order to get the TiVo and Roku to work.

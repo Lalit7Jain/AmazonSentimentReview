@@ -1,0 +1,1 @@
+usefull for some functions - controlling lamps, traffic info.  Insists on telling me the weather at a location 20 miles away and 1000 feet lower in altitude.  you cannot configure location to known federal weather stations that are less than a mile from the house.

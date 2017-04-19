@@ -1,0 +1,1 @@
+Still struggling to secure 220v devices that can be interfaced with Alexa

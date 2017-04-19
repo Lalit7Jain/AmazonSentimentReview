@@ -1,0 +1,1 @@
+She lacks in some basic integrations that should be there.  For instance there is no native support of Outlook 365 or Exchange calendars.  Which is where many people have their work schedules. Every other smart device on the market can do that.  Also, for traffic only one destination or route can be configured.  Integration with something like Waze would be great.

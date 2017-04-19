@@ -1,0 +1,1 @@
+I have echo for almost 2 week, and echo gets non responsive. Sometime you keep saying Alexa, but it doesn't responds. Alexa app shows same command in history. Alexa keep dropping network connection while my tv is streaming from amazon or youtube. Not sure if it's a defective piece or what.

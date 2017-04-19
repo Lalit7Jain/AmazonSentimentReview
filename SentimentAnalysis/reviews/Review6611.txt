@@ -1,0 +1,1 @@
+Received an Echo as a gift. It is functional up to an extent. Amazon should rethink the implementation of the "skills". It is hard for someone to remember more than 10 or more "keywords", to open use a specific skill. Having to also use a skill "keyword" is also not very intuitive.

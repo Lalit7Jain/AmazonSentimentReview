@@ -1,0 +1,1 @@
+Commands - other people probably have tried this but Echo will not say any other name.  If you say "Alexa, say I Love You, Mary" it interprets it as a question.  if you say Alexa, say I love You without any name it says it.  Google Home is worse - it won't even say the phrase 'I Love You'.

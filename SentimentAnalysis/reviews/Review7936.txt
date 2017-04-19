@@ -1,0 +1,1 @@
+You should find out the specified UDP ports on your router. Your going to want to contact your ISP for more information on opening the ports on your router. You have a firewall on your network, these User Datagram Protocol ports need to be open for the device to successfully connect to your network:

@@ -1,0 +1,1 @@
+3. Alexa also repeats the same 6 facts when you ask for a Computer Fact, Fruit Fact, Random Fact, Brain fact. Come on: update these facts or get rid of them altogether.

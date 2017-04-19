@@ -1,0 +1,1 @@
+17 attempts to connect to wifi. Performed every hard reset and re-connect maneuver without success. Had to send back to Amazon. Something about dual band wifi incompatibility. Every other device I own (2 iPads, an iPhone, and an iMac) connect seamlessly to wifi. Amazon needs their engineers to work on the Echo software a little more.

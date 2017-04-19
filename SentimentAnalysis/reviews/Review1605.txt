@@ -1,0 +1,1 @@
+Worked great for a few months, now it hears it's wake word and nothing after that.

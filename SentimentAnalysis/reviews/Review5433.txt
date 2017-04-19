@@ -1,0 +1,1 @@
+Echo is good other than it's not portable and doesn't answer all the questions

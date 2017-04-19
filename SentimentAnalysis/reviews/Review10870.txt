@@ -1,0 +1,1 @@
+- Setting alarms (I have a skill to make it also ring my phone when the alarm goes off)

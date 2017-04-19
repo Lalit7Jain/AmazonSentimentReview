@@ -1,0 +1,1 @@
+The missing star is for the Bluetooth out and audio out functionality that are missing, while offered on the cheaper Dot.

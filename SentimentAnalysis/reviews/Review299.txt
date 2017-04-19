@@ -1,0 +1,1 @@
+It plays songs and stations from my iPhone Pandora.  It will read some kindle books.  A big disappointment is that does not sync with my Apple Calendar nor any other Apple application.

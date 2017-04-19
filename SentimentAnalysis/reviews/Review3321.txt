@@ -1,0 +1,1 @@
+Tried to use it at work but it could not connect to the hospital wifi. It does not even see that wifi network. Every other phone and computer I use connects to the wifi without difficulty. The wifi requires a username and password.

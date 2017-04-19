@@ -1,0 +1,1 @@
+The other thing it seems is that the treble/base settings seem to reset themselves -- I always have treble set to high and bass set to low so that I can better understand what Alexa is saying.

@@ -1,0 +1,1 @@
+- Does not do ANYTHING without connectivity. This is pretty lame because how hard would it have been to have some internal smarts for things like alarms, asking the time, etc (for comparative purposes: the Google Home also fails in this department)

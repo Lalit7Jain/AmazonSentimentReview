@@ -1,0 +1,1 @@
+Amazing for home automation, sadly the controller settings aren't per device which means you need unique names for ever room as opposed to having a group named lights for each device/room.

@@ -1,0 +1,1 @@
+It also lacks the ability to self-diagnose problems and always refers you to the Alexa App.

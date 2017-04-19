@@ -1,0 +1,1 @@
+I have just touched the surface of what you can do with this unit.  And from the literature I have read, 3rd party and Amazon skills are continually being added.  I have the unit connected to my home network. The skills and all other software features are stored in an Amazon Echo dedicated cloud which the unit taps when doing it's searches and completing requests.

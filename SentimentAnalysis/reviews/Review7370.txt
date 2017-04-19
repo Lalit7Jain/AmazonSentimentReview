@@ -1,0 +1,1 @@
+Haven't figured out how to change the search engine which uses Bing. There should be an option as many questions are not answered because of it is using an inferior search engine. Echo should akso be able to assign more than one address at a time (home, work, school) in order to offer traffic and directions.

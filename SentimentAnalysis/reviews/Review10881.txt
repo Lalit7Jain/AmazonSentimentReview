@@ -1,0 +1,1 @@
+- Ability to play specific podcast episodes, continue podcasts where you left off, etc. The podcast function is severely limited!

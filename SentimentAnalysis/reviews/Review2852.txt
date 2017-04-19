@@ -1,0 +1,1 @@
+If you go above volume 5 then Echo has hard time hearing you. The louder the volume output from the echo the closer you have to be so it can hear you

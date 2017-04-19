@@ -1,0 +1,1 @@
+3. Understanding.  Although the Echo does a good job of understanding most requests, many features don't seem to be implemented and the range of functions is still too low.  When comparing to the Home the range of topics it is able to respond to is much wider.

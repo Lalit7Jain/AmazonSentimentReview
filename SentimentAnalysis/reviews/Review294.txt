@@ -1,0 +1,1 @@
+It used to play songs upon request. I would ask the song name and artist and it would play. It now only plays samples or requests songs from a play list. so in essence, you spend money for the echo and have to spend more money for songs.

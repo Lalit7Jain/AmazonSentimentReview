@@ -1,0 +1,1 @@
+Still has a bit to go on being fully interactive. Needs to take on some abilities that Google home has.

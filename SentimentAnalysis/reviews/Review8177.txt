@@ -1,0 +1,1 @@
+Alexa engages in basic one-off, command-and-response transactions. There is no context or conversation. It does not ask for more information when it should, not even when it barely has any confidence in what it thinks it heard you say. Software development towards a more intelligent model needs to address this and soon. It's inability to ask for clarification is a big weakness.

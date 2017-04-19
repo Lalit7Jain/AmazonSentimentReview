@@ -1,0 +1,1 @@
+-For routers on 2.4GHz networks, channels 1, 6, and 11 are most likely the best channels to use as they do not interfere with each other when using a 20MHz band.

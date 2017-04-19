@@ -1,0 +1,1 @@
+We love our Echo.  We added a WEMO outlet so now Alexa can turn the lights on and off for us.

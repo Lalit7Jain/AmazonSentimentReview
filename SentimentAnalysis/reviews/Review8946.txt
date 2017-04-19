@@ -1,0 +1,1 @@
+Stop playing songs would not respond to voice commands returned it ..

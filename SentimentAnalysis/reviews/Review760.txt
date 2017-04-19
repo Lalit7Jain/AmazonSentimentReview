@@ -1,0 +1,1 @@
+Seems to work OK. There are time we are talking and Echo will say that she does not understand the question , without saying the wake up word.

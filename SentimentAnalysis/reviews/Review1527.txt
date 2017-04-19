@@ -1,0 +1,1 @@
+- When volume is high, the echo can't hear you say "Alexa" (or "Echo" or whatever word you use) in order to turn off, so I need to scream or walk over and turn it down.

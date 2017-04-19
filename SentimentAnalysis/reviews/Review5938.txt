@@ -1,0 +1,1 @@
+Note: Phone calls, text messages, and other notifications from your mobile device can't be received or read by Echo, and audio from Echo can't be sent to Bluetooth speakers or headphones.

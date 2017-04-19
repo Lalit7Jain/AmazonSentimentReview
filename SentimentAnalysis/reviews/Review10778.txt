@@ -1,0 +1,1 @@
+Recommended: Definitely take advantage of IFTTT with the Echo. For example I can connect Wunderlist and have the Echo upload reminders through that instead of the native reminder app. I can also turn WiFi on or off on my phone with just my voice now.

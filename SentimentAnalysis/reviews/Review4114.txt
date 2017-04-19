@@ -1,0 +1,1 @@
+- Songs cannot be played across all or selected Echo/Dot devices, just from the device you asked to play something.  I have to believe this will be fixed in later firmware or hardware versions since it is an obvious need noted by most every reviewer.

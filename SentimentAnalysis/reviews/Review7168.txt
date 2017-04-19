@@ -1,0 +1,1 @@
+- If you have a dual-band router (2.4 GHz / 5 GHz), and the network names (SSID) are the same across both bands, your device may not connect to your Wi-Fi network. We recommend making the names different for each network.

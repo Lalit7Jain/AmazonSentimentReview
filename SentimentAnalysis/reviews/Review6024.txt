@@ -1,0 +1,1 @@
+Calendar alerts don't work with anything but Google Calendar.

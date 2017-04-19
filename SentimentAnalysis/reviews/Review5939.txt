@@ -1,0 +1,1 @@
+Say, "Pair." Alexa lets you know that Echo is ready to pair.

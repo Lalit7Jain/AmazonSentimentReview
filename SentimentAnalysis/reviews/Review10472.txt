@@ -1,0 +1,1 @@
+The Alexa skills are rather lacking and a bit bizzare, hard to use,and hard to discover. (eg "Alexa, ask Purina what dog is good for child.") Supposedly the Alexa can control your lights, but only if you buy all new wifi enable lightbulbs.

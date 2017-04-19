@@ -1,0 +1,1 @@
+We tested our android phones with "ok google" process and it never missed the question.  We even worded Echo and Google the same question and Echo didn't understand...Ok Google got it.

@@ -1,0 +1,1 @@
+Also it would be nice to be able to change the activation command for those who have more than one Echo.

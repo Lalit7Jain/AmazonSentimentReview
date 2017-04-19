@@ -1,0 +1,1 @@
+- Make sure that the router has their Firewall and MAC Address Filtering settings are off. This can be one of the biggest offenders when trying to complete setup.

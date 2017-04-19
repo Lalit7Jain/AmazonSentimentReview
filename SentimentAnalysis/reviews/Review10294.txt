@@ -1,0 +1,1 @@
+The workaround you can find online is to build a "playlist" which contains the music you want.  You can go to the Amazon music app and browse and build a playlist.  That used to work pretty consistently until Amazon launched their music service and broke that functionality.  After that Alexa just plays a random piece of music that it thinks you will like.

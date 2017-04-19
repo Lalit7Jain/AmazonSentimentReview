@@ -1,0 +1,1 @@
+So I created a playlist call Vietnamsese1 and add the vietnam songs to it, thinking that it will work better since all I have to say is "alexa, play the Vietnamese1 Playlist"... Guess what, i have the same results, sometime Alexa understands it, other time it just say it does not understand!!!!

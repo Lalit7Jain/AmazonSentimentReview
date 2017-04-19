@@ -1,0 +1,1 @@
+Don't know if this has been mentioned before but I find that Alexa seems to work off keywords, example: Alexa, What is the weather, Just say Alexa, weather, this works for me a lot, just say Alexa, calendar, time, well you get picture. Also works for smart plugs, Just say name name of your device, Alexa, example bug light On/Off.

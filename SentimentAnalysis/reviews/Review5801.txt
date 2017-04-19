@@ -1,0 +1,1 @@
+I was expecting a sensor that read humidity as well.

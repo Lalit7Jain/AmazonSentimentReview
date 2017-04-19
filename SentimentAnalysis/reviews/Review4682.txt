@@ -1,0 +1,1 @@
+Echo is dependent upon the Alexa App running on one of your devices, which in my case is a Samsung Galaxy 7.  The Alexa App will not even start on a G7, so my review reflects this failure.  As soon as Amazon cares to task some engineers with tracking down the bugs causing this, I will update this review based upon the complete hardware/app interface combination.

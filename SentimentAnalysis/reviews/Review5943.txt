@@ -1,0 +1,1 @@
+Note: After you pair your mobile device, you can immediately connect your Echo to your mobile device. Turn on Bluetooth on your mobile device, and then say, "Connect." If your Echo is paired with multiple mobile devices, it connects to the most recently paired device.

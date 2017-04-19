@@ -1,0 +1,1 @@
+The vast majority of questions completely confuse the Echo.  It is cause for celebration when it understands what you are asking and answers correctly.  Most of the time, Google search does a better job.  For instance, the simple question "Alexa, what are LED lights?" confuses Alexa, but not Google search.

@@ -1,0 +1,1 @@
+1. The Echo forces you to use their software to connect to your router, and does not connect to Bluetooth. This way Amazon is able to track everything you do online, and market products to you that they think you will want to buy. I see no reason to believe Amazon's software is going to be as secure as the software already provided by your device.

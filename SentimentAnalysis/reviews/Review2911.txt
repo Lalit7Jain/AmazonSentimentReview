@@ -1,0 +1,1 @@
+If you try to ask questions that you hear the commercials for google home, the echo actually doesn't know the answer.  One my kids asked it was what sound the whale makes (they saw google home make the whale sound), but alexa just says she doesn't understand.

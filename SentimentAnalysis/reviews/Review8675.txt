@@ -1,0 +1,1 @@
+This just plain works. Best application I've found is the integration with the Belkin WeMo switches. Despite some of the reviews I've seen, Alexa loves these switches.

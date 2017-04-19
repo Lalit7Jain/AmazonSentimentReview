@@ -1,0 +1,1 @@
+-there is a "skill" you can add called drop some knowledge which accesses Google. But it it sucks having to say - Alexa, drop some knowledge XXXXX  - Many times it stops listening before you are done asking the question.

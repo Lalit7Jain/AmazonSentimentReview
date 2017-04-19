@@ -1,0 +1,1 @@
+The echo works well, we just want it to know more. We like that we can tie it in with our thermostats.

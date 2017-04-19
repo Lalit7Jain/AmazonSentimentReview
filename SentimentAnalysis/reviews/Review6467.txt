@@ -1,0 +1,1 @@
+It's a good start in the right direction but needs more work on voice commands and skills. Works with other smart home devices that are not associated with Amazon.

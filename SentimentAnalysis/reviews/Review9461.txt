@@ -1,0 +1,1 @@
+I will be doing some further setup and research on Echo voice control of Lutron Lighting and Shade controllers so I will do a follow up review and let people know how well it works.

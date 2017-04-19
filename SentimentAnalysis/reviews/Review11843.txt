@@ -1,0 +1,1 @@
+Returned, it seemed to work great initially. But after about a week or so with the Echo we had issues where Pandora would stop mid song after a minute or two and the only way to make it work again is to reboot the Echo.

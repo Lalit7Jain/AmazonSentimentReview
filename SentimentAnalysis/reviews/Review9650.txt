@@ -1,0 +1,1 @@
+Alexa, turn on the TV.  (Alexa tells Harmony to start the Watch TV activity, which powers on TV, cable box, A/V receiver, sets all correct inputs, etc.)

@@ -1,0 +1,1 @@
+When I ask it to play an album in my music library, it says the album isn't in my music library and suggests I try Music Unlimited. The problem is, I KNOW THE ALBUM IS IN MY MUSIC LIBRARY. It's frustrating.

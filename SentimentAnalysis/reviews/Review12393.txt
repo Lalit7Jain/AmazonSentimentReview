@@ -1,0 +1,1 @@
+at first , start to fail and disconnect continuous, but i made a hard reset and the problem was solved, is amazing

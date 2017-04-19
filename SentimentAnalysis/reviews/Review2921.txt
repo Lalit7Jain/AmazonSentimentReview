@@ -1,0 +1,1 @@
+When the power goes out, the Echo never reconnects and it occasional disconnects for no reason, so you will hear Ma'lexa tell you to connect her to the internet, and you'll say, "but I did many, many times", and "please Ma'lexa stay connected to the internet."

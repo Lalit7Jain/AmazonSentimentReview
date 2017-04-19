@@ -1,0 +1,1 @@
+Lots of pretty simple questions it can't deal with. Works great if you want the weather forecast in your area.

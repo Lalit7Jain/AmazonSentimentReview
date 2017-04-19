@@ -1,0 +1,1 @@
+Echo or Dot, Alexa is a bit developmentally challenged. There are a few things she does well, like providing hands-free control of lights on/off in individual rooms, playing audible books. Some things she does ok, like reading kindle books. Most things, it's just useless. I even wrote some of my own apps, but even that has too many limitations. Still some growing to do.

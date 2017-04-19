@@ -1,0 +1,1 @@
+Alexa cannot integrate in such a way that it will play a song from your phone, however it is a Bluetooth speaker (so innovative! - sarcasm), so if you play a song from your phone/tablet/computer, it can play from Alexa.  Bluetooth works like any other bluetooth device, not difficult to setup.

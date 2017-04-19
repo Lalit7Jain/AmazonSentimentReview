@@ -1,0 +1,1 @@
+- Alarm catch 22. You can not set an alarm on voice command to happen every certain day.  You have to tell it the alarm time then go to the app to fix it. You cant add an alarm on the app at all you have to do it by voice.

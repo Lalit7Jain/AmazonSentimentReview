@@ -1,0 +1,1 @@
+Asking the Echo a question results in an answer with almost no delay (less than 1 second), which is amazing considering that my Internet service is via satellite.

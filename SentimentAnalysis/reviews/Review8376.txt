@@ -1,0 +1,1 @@
+This is a really cool idea, and even the implementation of using Amazon Lambda is great, the problem is it doesn't come with enough behaviors/tricks basically its just a voice controlled stereo ATM.

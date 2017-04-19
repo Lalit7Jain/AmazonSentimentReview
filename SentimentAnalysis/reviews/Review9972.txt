@@ -1,0 +1,1 @@
+After help from CS I got Echo to work.  I'm learning about all it can do with adding "Skills".

@@ -1,0 +1,1 @@
+Captures audio even when "idle". Was watching TV and the tv said thank you and alexa responded to it. I now keep the microphone muted at all times.

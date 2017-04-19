@@ -1,0 +1,1 @@
+Really love the echo and dot, the only issue I've had so far is that when we are playing music sometimes it doesn't hear it's wake name.

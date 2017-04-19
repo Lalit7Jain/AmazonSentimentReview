@@ -1,0 +1,1 @@
+- it's always listening waiting for the wake word "Alexa" or 2 other slectable words.

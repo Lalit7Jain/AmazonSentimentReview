@@ -1,0 +1,1 @@
+It should also be able to integrate with the firestick, which it doesn't really, but can be linked with the firestick remote, and the remote can be used with echo but the echo can't control the firestick functions. Overall tho, I like it, but there's still much room for improvement

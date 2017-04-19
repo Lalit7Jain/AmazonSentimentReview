@@ -1,0 +1,1 @@
+Echo gets the weather right "most of the time", but, unlike the android device, it doesn't understand things like "what's the weather in Coeur d'Alene Idaho" - "Sorry...I couldn't find a forecast for that location".  Google reports the weather for this location every time.

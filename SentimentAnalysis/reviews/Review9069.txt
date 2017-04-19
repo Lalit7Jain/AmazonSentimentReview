@@ -1,0 +1,1 @@
+Fast forward to the last month or so, and we have found that even interacting with our Echo is becoming a burden. For most questions that we ask, Alexa is unable to come up with an answer, and half of the time it is as though the system completely misunderstood what has been asked of it.

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# loading packages\nlibrary(twitteR)\nlibrary(ROAuth)\nlibrary(tidyverse)\nlibrary(text2vec)\nlibrary(caret)\nlibrary(glmnet)\nlibrary(ggrepel)\n\n### loading and preprocessing a training set of tweets\n# function for converting some symbols\nconv_fun <- function(x) iconv(x, \"latin1\", \"ASCII\", \"\")\n\n##### loading classified tweets ######\n# source: http://help.sentiment140.com/for-students/\n# 0 - the polarity of the tweet (0 = negative, 4 = positive)\n# 1 - the id of the tweet\n# 2 - the date of the tweet\n# 3 - the query. If there is no query, then this value is NO_QUERY.\n# 4 - the user that tweeted\n# 5 - the text of the tweet\n\ntweets_classified <- read_csv('training.1600000.processed.noemoticon.csv',\n                              col_names = c('sentiment', 'id', 'date', 'query', 'user', 'text')) %>%\n  # converting some symbols\n  dmap_at('text', conv_fun) %>%\n  # replacing class values\n  mutate(sentiment = ifelse(sentiment == 0, 0, 1))\n\n# data splitting on train and test\nset.seed(2340)\ntrainIndex <- createDataPartition(tweets_classified$sentiment, p = 0.8, \n                                  list = FALSE, \n                                  times = 1)\ntweets_train <- tweets_classified[trainIndex, ]\ntweets_test <- tweets_classified[-trainIndex, ]\n\n##### doc2vec #####\n# define preprocessing function and tokenization function\nprep_fun <- tolower\ntok_fun <- word_tokenizer\n\nit_train <- itoken(tweets_train$text, \n                   preprocessor = prep_fun, \n                   tokenizer = tok_fun,\n                   ids = tweets_train$id,\n                   progressbar = TRUE)\nit_test <- itoken(tweets_test$text, \n                  preprocessor = prep_fun, \n                  tokenizer = tok_fun,\n                  ids = tweets_test$id,\n                  progressbar = TRUE)\n\n# creating vocabulary and document-term matrix\nvocab <- create_vocabulary(it_train)\nvectorizer <- vocab_vectorizer(vocab)\ndtm_train <- create_dtm(it_train, vectorizer)\ndtm_test <- create_dtm(it_test, vectorizer)\n# define tf-idf model\ntfidf <- TfIdf$new()\n# fit the model to the train data and transform it with the fitted model\ndtm_train_tfidf <- fit_transform(dtm_train, tfidf)\ndtm_test_tfidf <- fit_transform(dtm_test, tfidf)\n\n# train the model\nt1 <- Sys.time()\nglmnet_classifier <- cv.glmnet(x = dtm_train_tfidf, y = tweets_train[['sentiment']], \n                               family = 'binomial', \n                               # L1 penalty\n                               alpha = 1,\n                               # interested in the area under ROC curve\n                               type.measure = \"auc\",\n                               # 5-fold cross-validation\n                               nfolds = 5,\n                               # high value is less accurate, but has faster training\n                               thresh = 1e-3,\n                               # again lower number of iterations for faster training\n                               maxit = 1e3)\nprint(difftime(Sys.time(), t1, units = 'mins'))\n\nplot(glmnet_classifier)\nprint(paste(\"max AUC =\", round(max(glmnet_classifier$cvm), 4)))\n\npreds <- predict(glmnet_classifier, dtm_test_tfidf, type = 'response')[ ,1]\nglmnet:::auc(as.numeric(tweets_test$sentiment), preds)\n\n# save the model for future using\nsaveRDS(glmnet_classifier, 'glmnet_classifier.RDS')\n#######################################################",
+    "created" : 1492037612822.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "4170184139",
+    "id" : "74F828ED",
+    "lastKnownWriteTime" : 7952268563838935667,
+    "last_content_update" : 1492039429766,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

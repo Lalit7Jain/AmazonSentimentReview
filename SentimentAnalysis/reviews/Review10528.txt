@@ -1,0 +1,1 @@
+When providing functionality, it should be clear that what you are accustomed to can go away at any time.  Trying to find a new use for it now.  It's still a good clock, a good weather device.

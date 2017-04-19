@@ -1,0 +1,1 @@
+Needs a lot of improvement in home automation in that it doesn't naturally understand functions well.

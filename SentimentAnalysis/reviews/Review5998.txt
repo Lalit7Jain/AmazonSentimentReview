@@ -1,0 +1,1 @@
+2) Tied to Smartthings but does not let control the ZWave or Zigbee devices that the Smartthings app can control.

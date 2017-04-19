@@ -1,0 +1,1 @@
+Has been working fine for about 2 months. Now it never responds to "Alexa" unless it's unplugged and reset. Not sure what happened to it, but it just doesn't work anymore.

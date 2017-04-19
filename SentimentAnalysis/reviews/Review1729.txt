@@ -1,0 +1,1 @@
+It worked fine for a while and now it won't sink with my WiFi.  I've checked out my connection and it's perfect with everything else just not my Echo.

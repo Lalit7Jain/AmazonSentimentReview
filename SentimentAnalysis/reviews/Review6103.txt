@@ -1,0 +1,1 @@
+And I am also having fun now that I have rigged up a Raspberry Pi2 to my X-10 system (google "Alexa X-10" and find the UPDATED version of the guy's writeup with habridge to follow step by step instructions), and controlling lights and stuff just by asking Alexa to turn on/off things (the kids will be getting lazy, now that Alexa can do it, they wont have to! :-) )

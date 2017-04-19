@@ -1,0 +1,1 @@
+It works with Samsung Smartthings Hub. Insteon Hub which I have my Motorized Curtains connected to.

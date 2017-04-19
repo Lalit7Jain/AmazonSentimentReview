@@ -1,0 +1,1 @@
+For what Echo does, it does it fairly well. Unfortunately, it is still lacking basic integration with Amazon products. Do not invest in an unsupported ecosystem.

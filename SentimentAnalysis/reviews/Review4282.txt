@@ -1,0 +1,1 @@
+When you pause on an Amazon Music Playlist and then come back a few hours later and resume playing it starts the whole playlist over from the beginning rather than picking up where you paused it which is idiotic.

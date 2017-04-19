@@ -1,0 +1,1 @@
+Echo is very good at determining which words are spoken, even if there's some background noise.

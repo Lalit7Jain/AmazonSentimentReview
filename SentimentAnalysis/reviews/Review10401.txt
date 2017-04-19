@@ -1,0 +1,1 @@
+We find Alexa isn't as good at understanding our voice commands as Google Search is.  It is not uncommon for us to have to repeat commands because the Echo can't understand them or didn't register anyone was speaking in the first place.  It is hard for it to recognize a voice command when there is background noise.

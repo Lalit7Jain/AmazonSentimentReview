@@ -1,0 +1,1 @@
+  One small other annoyance is that both the Echo and the Tap activate by us saying "hey, Alexa".  That means that if these are near each other, both of them come on at the same time. Not only are they both playing music at the same time, it's to a  different beat and may be entirely different music.  I don't why Amazon didn't give the two different names.

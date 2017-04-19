@@ -1,0 +1,1 @@
+- I can control my NEST Thermostat directly through Echo but not all NEST products are able to be directly accessed from Echo (hub issue again).

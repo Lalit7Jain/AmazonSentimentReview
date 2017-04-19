@@ -1,0 +1,1 @@
+-By default, your router may use both WPA/WPA2 for security. We recommend switching your router security type to WPA or WPA2 only. If your router also has an option to set the type of encryption, we recommend setting it to AES only.

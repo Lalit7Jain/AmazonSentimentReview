@@ -1,0 +1,1 @@
+When requesting a song it does NOT give me a choice between the artists/group or version.

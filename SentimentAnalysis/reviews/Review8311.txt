@@ -1,0 +1,1 @@
+unit is intermitment  sometime it responds and other time is says it does not understand is there a reset on it

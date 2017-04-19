@@ -1,0 +1,1 @@
+Alexa also seems to have a preference for interpreting spoken commands as a request to play music from one artist or another. This can be irritating at times, particularly when the Echo volume is turned up and the music selection Alexa decides to play is loud.

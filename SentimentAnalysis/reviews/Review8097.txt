@@ -1,0 +1,1 @@
+My final Alexa app gripe relates to the repeat function.  Unlike the iTunes or Amazon Music apps, Alexa cannot repeat one song in a queue.  You'd think that toggling the repeat button 2 times would trigger this function; however, all it seems to do is toggle the repeat option to the "off" position.

@@ -1,0 +1,1 @@
+I have a Dot connected to the same exact network without any issues. I have 15 wireless devices on the network without issues.  This is clearly a device specific issue.

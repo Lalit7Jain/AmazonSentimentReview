@@ -1,0 +1,1 @@
+That said, I hooked up my Hue Lights to echo and that works great (even without the speaker working).

@@ -1,0 +1,1 @@
+Bing search is terrible.  The Echo does not provide expanded weather information when requested.  Example is to ask it for the current barometric pressure.

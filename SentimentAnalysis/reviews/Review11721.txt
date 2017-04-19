@@ -1,0 +1,1 @@
+Weather: Go into the app and verify the address is correct. Alexa kept trying to give me weather in a neighboring city (not in my history nor Amazon address book). This is fixable.

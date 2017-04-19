@@ -1,0 +1,1 @@
+1) With the Harmony integration, I would like to be able to have more granular control.  Presently, I cannot tell Alexa to change the volume of my A/V receiver, or channel up, channel down, bring up program guide, return to previous channel, record a program, etc.  The functionality is limited.

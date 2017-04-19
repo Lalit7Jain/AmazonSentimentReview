@@ -1,0 +1,1 @@
+never stayed connected to the network microphone locked up repeatedly on off

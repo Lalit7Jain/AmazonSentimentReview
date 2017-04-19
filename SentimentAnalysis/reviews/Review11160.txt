@@ -1,0 +1,1 @@
+After hours of trying to get Alexa to control the scenes on my hue lights, it finally kind of worked. A day later, no good. Nothing I said got her to control the lights.

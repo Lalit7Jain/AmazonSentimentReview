@@ -1,0 +1,1 @@
+Initially the Echo was responsive to my voice, but recently it more often than not does NOT recognize the "alexa" spoken prompt when the device is playing audio.  This problem has gotten worse over time.  If you read online forums, you will see this as a common complaint.

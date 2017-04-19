@@ -1,0 +1,1 @@
+I'm having serious issues keeping Echo connected. It worked right out of the box after setup. Now the device tells me it's not registered even though I can see clearly in my account that it is registered.

@@ -1,0 +1,1 @@
+My Echo is great. The only thing about it that I don't like is that for any non-Amazon created Alexa Skills you enable, you have to remember which commands you're supposed to use to open those skills. Maybe this will get easier the more I use it but for now, I find myself having to open the Alexa app and look up the commands for what I'm trying to do.

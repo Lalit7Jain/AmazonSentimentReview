@@ -1,0 +1,1 @@
+Echo does not seem to play more than one movement of a classical music work.  E.G. with a three movement symphony you get just the first.  This is strange because Echo will play an entire pop music album.  Please fix it.  This is the case even if one pays for the Prime music service.

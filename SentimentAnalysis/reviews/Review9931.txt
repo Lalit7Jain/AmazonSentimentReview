@@ -1,0 +1,1 @@
+It has difficulty understanding certain commands especially when the word is in Spanish.  Converts it to gringo Spanish.  For example try to get it to play one of your stations in Pandora that has a Spanish name.  It's easier to just pair the Echo and use Pandora on your phone.

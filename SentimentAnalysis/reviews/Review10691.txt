@@ -1,0 +1,1 @@
+You can't ask Echo to "google search" something -- read the top 3 results, then read the webpages that come up.  This would be a killer feature.

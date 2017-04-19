@@ -1,0 +1,1 @@
+Echo is very poor at understanding anything but the most direct requests.  Compared with Google Now (or what used to be called that) Echo isn't very helpful in obtaining information.  The most common response we get from Alexa is that it doesn't understand.

@@ -1,0 +1,1 @@
+Now, if I say "OK Google," my android accurately picks up what I say, detects it quickly displaying the question text as it recognizes it, and reads the correct, concise answer aloud. 1000% more helpful.
